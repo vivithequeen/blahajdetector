@@ -26,4 +26,4 @@ for filename in os.listdir("blahajpicturemaker/blahajpicturemaker/pictures"): # 
                   #     pixdata[x, y] = (255, 255, 255, 0)  
         #img2 = img.filter(ImageFilter.GaussianBlur(radius=1))  
 
-        img.save("blahajpicturemaker/blahajpicturemaker/pictures/" + filename, "PNG")  
+        img.save("p/" + filename, "PNG")  
