@@ -1,7 +1,7 @@
 import cv2
 from matplotlib import pyplot as plt
 
-img = cv2.imread("Blahaj_jpg.png")
+img = cv2.imread("0.png")
 
 
 
